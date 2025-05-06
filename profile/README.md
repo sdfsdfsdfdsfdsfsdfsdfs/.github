@@ -99,3 +99,6 @@ A: Developers release updates regularly to ensure functionality with Roblox patc
 **Q: Is it free to use?**  
 A: Yes – JJSploit is completely free to download and use.
 
+
+## 🏷️ Tags
+`roblox` ‧ `jjsploit-roblox` ‧ `roblox-lua-tool` ‧ `jjsploit` ‧ `roblox-jjsploit` ‧ `jjsploit-roblox` ‧ `roblox-jjsploit-2025` ‧ `roblox-jjsploit-script` ‧ `jjsploit-script-roblox` ‧ `jjsploit-2025` ‧ `roblox-jjsploit-free` ‧ `roblox-jjsploit-pc` ‧ `jjsploit-script-runner` ‧ `jjsploit-mod-scripts` ‧ `jjsploit-roblox-bypass`
